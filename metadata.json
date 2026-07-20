@@ -1,0 +1,6 @@
+{
+  "name": "AI Client Finder",
+  "description": "Find local businesses without websites, automatically generate beautiful AI demo sites, and craft personalized outreach copies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
